@@ -11,4 +11,4 @@
 | 2023-02-11         | LED matrix       | lith        | <img src="icon-2023-02-11.webp" height="120">            |
 | 2023-06-18         | maiser           | maisy       | <img src="icon-2023-06-18.webp" height="120">            |
 | 2023-10-10         | 14-segment disp  | sink        | <img src="icon-2023-10-10.webp" height="120">            |
-| 2024-03-07         | geogebra, edited | sink        | <img src="icon-2024-03-07.webp" height="120">            |
+| 2024-03-07         | geogebra, edited | sink        | <img src="icon-2024-03-07.png" height="120">             |
