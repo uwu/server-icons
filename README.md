@@ -12,3 +12,4 @@
 | 2023-06-18         | maiser           | maisy       | <img width="120" src="icon-2023-06-18.webp">            |
 | 2023-10-10         | 14-segment disp  | sink        | <img width="120" src="icon-2023-10-10.webp">            |
 | 2024-03-07         | geogebra, edited | sink        | <img width="120" src="icon-2024-03-07.png">             |
+| 2026-06-01         | house of cards   | sink        | <img width="120" src="icon-2026-06-01.png">             |
